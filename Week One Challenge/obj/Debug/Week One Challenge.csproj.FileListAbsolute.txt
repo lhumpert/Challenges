@@ -1,0 +1,2 @@
+C:\SD71B\Challenges\ChallengeSolution\Week One Challenge\obj\Debug\Week One Challenge.csprojAssemblyReference.cache
+C:\SD71B\Challenges\ChallengeSolution\Week One Challenge\obj\Debug\Week One Challenge.csproj.CoreCompileInputs.cache
